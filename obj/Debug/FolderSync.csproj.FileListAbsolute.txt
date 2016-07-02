@@ -1,0 +1,18 @@
+c:\users\shivam\documents\visual studio 2015\Projects\Networking\FolderSync\FolderSync\bin\Debug\FolderSync.exe.config
+c:\users\shivam\documents\visual studio 2015\Projects\Networking\FolderSync\FolderSync\bin\Debug\FolderSync.exe
+c:\users\shivam\documents\visual studio 2015\Projects\Networking\FolderSync\FolderSync\bin\Debug\FolderSync.pdb
+c:\users\shivam\documents\visual studio 2015\Projects\Networking\FolderSync\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
+c:\users\shivam\documents\visual studio 2015\Projects\Networking\FolderSync\FolderSync\obj\Debug\FolderSync.exe
+c:\users\shivam\documents\visual studio 2015\Projects\Networking\FolderSync\FolderSync\obj\Debug\FolderSync.pdb
+G:\Projects\FolderSync\FolderSync\bin\Debug\FolderSync.exe.config
+G:\Projects\FolderSync\FolderSync\obj\Debug\FolderSync.exe
+G:\Projects\FolderSync\FolderSync\obj\Debug\FolderSync.pdb
+G:\Projects\FolderSync\FolderSync\bin\Debug\FolderSync.exe
+G:\Projects\FolderSync\FolderSync\bin\Debug\FolderSync.pdb
+G:\Projects\FolderSync\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
+G:\Projects\C#\FolderSync\FolderSync\bin\Debug\FolderSync.exe.config
+G:\Projects\C#\FolderSync\FolderSync\obj\Debug\FolderSync.exe
+G:\Projects\C#\FolderSync\FolderSync\obj\Debug\FolderSync.pdb
+G:\Projects\C#\FolderSync\FolderSync\bin\Debug\FolderSync.exe
+G:\Projects\C#\FolderSync\FolderSync\bin\Debug\FolderSync.pdb
+G:\Projects\C#\FolderSync\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
